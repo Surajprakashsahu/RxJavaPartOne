@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\Lenovo\.android\build-cache\bba96bd604c654a2a66525c5589894d99c40131b\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
+        <dex dex="E:\Project\CORDOVA\Projects\hello\platforms\RxJavaPartOne\app\build\intermediates\pre-dexed\debug\classes_38c1a513c46d4e029f3792bd1259f6334901ddb0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Lenovo\.android\build-cache\547d042728daf8392b3de9a971df37870708901c\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="70f23cb87278f89aa51e6f57e8f0fd5266572d95">
+        <dex dex="E:\Project\CORDOVA\Projects\hello\platforms\RxJavaPartOne\app\build\intermediates\pre-dexed\debug\classes_6e0325b0517b4aa05651efca8bf6e11ed5824430.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Lenovo\.android\build-cache\56d0c20e4c25960bb6d410749af2bcfb33ff4cbe\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="023a79c3bbea624387e820cb2b4d5c6ba774903c">
+        <dex dex="E:\Project\CORDOVA\Projects\hello\platforms\RxJavaPartOne\app\build\intermediates\pre-dexed\debug\classes_043dec5fb3b02dfa67969ecdf1079e732dfa4197.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Lenovo\.android\build-cache\c84e45a67ab8f9c1b948bc4ca283e0fa08018d5d\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d6a04527c17597019dad82777c5094a3d60d1c33">
+        <dex dex="E:\Project\CORDOVA\Projects\hello\platforms\RxJavaPartOne\app\build\intermediates\pre-dexed\debug\classes_2be39b4f04408801485c9290803bd4f3c650d7ec.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\Softwares\sdk\extras\android\m2repository\com\android\support\support-annotations\25.3.0\support-annotations-25.3.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="dd84903d2e1af25a6081ef9038ad863cb14ca3a0">
+        <dex dex="E:\Project\CORDOVA\Projects\hello\platforms\RxJavaPartOne\app\build\intermediates\pre-dexed\debug\support-annotations-25.3.0_73efa0eb903b6e12b7c7f1293e8ec84edb3b89e5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Lenovo\.android\build-cache\9b247a61259da3d151a2d84ec073c6b9dc48d990\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d4c4b83de2f6412072d2a29b1b7a5b03edaad5ff">
+        <dex dex="E:\Project\CORDOVA\Projects\hello\platforms\RxJavaPartOne\app\build\intermediates\pre-dexed\debug\classes_dc09935e98475f23080cdbdc807f46670482dfe8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Lenovo\.android\build-cache\9bbb87c918ff3ed291357b72895d2bb059ec42c9\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="425c7b17887e5c3f8cbdf67ba171bc246f29b42c">
+        <dex dex="E:\Project\CORDOVA\Projects\hello\platforms\RxJavaPartOne\app\build\intermediates\pre-dexed\debug\classes_db972936feb15e56ba2c4f2da2766b1b5b35b781.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Lenovo\.android\build-cache\bbc1957c03a4db8527e1050f467c8c5f825ac364\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="93c10d68ab5ea070f15782ae6d3a28d1f1d8f45e">
+        <dex dex="E:\Project\CORDOVA\Projects\hello\platforms\RxJavaPartOne\app\build\intermediates\pre-dexed\debug\classes_af8122b3cfd119913ec8e2c8855f88337323a141.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\Softwares\sdk\extras\m2repository\com\android\support\constraint\constraint-layout-solver\1.0.2\constraint-layout-solver-1.0.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
+        <dex dex="E:\Project\CORDOVA\Projects\hello\platforms\RxJavaPartOne\app\build\intermediates\pre-dexed\debug\constraint-layout-solver-1.0.2_8e1b0ac5e93ec6f7885fb86bcc4b1e3f99c11c6a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Lenovo\.android\build-cache\f72cec31e1f06556efbab1c1e03b680f9978cb6d\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4b746ef0fd46acb5aaf3d9ab9a4cec22c28d3211">
+        <dex dex="E:\Project\CORDOVA\Projects\hello\platforms\RxJavaPartOne\app\build\intermediates\pre-dexed\debug\classes_10afb8c4b1dd21f6bf327af6f362cf77925aae33.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Lenovo\.android\build-cache\3f9a32d5c6ce55db134513d303c3fd1ed6ad5426\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="93c1199fcb0a34b980e6fff8350daff62e696ec2">
+        <dex dex="E:\Project\CORDOVA\Projects\hello\platforms\RxJavaPartOne\app\build\intermediates\pre-dexed\debug\classes_e7bf2f153b1fd5a188b3dddd70ee4915c78a4f64.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Lenovo\.android\build-cache\ae4369d7205b8c29398e63f679f18fc8ffeed0b1\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="518768f3200963fbfec652f498da2c9d39245234">
+        <dex dex="E:\Project\CORDOVA\Projects\hello\platforms\RxJavaPartOne\app\build\intermediates\pre-dexed\debug\classes_ab450b48be90b5b87c3a12378e779e300da2a6b8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Lenovo\.gradle\caches\modules-2\files-2.1\io.reactivex\rxjava\1.1.0\748f0546d5c3c27f1aef07270ffea0c45f0c42a4\rxjava-1.1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="748f0546d5c3c27f1aef07270ffea0c45f0c42a4">
+        <dex dex="E:\Project\CORDOVA\Projects\hello\platforms\RxJavaPartOne\app\build\intermediates\pre-dexed\debug\rxjava-1.1.0_1fa0a6f85cccc06c37cb03e69d9a363fadefd11b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Lenovo\.android\build-cache\7b1af42aa52fe5447b3b229827a2b010fb8ea566\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="5cc5ef8347a6bafa14556cbd35230aa9b3431bb0">
+        <dex dex="E:\Project\CORDOVA\Projects\hello\platforms\RxJavaPartOne\app\build\intermediates\pre-dexed\debug\classes_cdc3a4ae9d5862cce2b6cd9eaab56f9c1b53605c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Lenovo\.android\build-cache\51940e8686b585ef3dad8fa74bfb9e0280491f93\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="E:\Project\CORDOVA\Projects\hello\platforms\RxJavaPartOne\app\build\intermediates\pre-dexed\debug\classes_71f5ecc993ef73ab6a82eb0f3d25581d85f9dc13.jar" />
+    </item>
+
+</items>
